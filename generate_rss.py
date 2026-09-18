@@ -66,7 +66,7 @@ t_month, t_day, t_year = calculate_tamil_date(today)
 
 item_title = f"{t_month} {t_day}, {t_year} Varudam"
 item_desc = f"Today is day {t_day} of the solar month {t_month} in the Tamil year {t_year}."
-pub_date = formatdate(tuple_time=None, usegmt=True)
+pub_date = formatdate(usegmt=True)
 
 # 3. Build RSS XML Structure
 rss = ET.Element("rss", version="2.0")
