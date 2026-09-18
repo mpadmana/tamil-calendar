@@ -3,6 +3,1826 @@ VERSION:2.0
 PRODID:-//My Tamil Calendar//EN
 X-WR-CALNAME:தமிழ் நாட்காட்டி
 BEGIN:VEVENT
+UID:20260101-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:மார்கழி 17\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 17\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260102-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:மார்கழி 18\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 18\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260103-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:மார்கழி 19\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 19\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260104-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:மார்கழி 20\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 20\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260105-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:மார்கழி 21\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 21\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260106-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:மார்கழி 22\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 22\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260107-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:மார்கழி 23\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 23\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260108-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:மார்கழி 24\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 24\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260109-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:மார்கழி 25\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 25\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260110-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:மார்கழி 26\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 26\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260111-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:மார்கழி 27\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 27\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260112-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:மார்கழி 28\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 28\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260113-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:மார்கழி 29\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மார்கழி\, தேதி: 29\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260114-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:தை 1\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 1\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260115-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:தை 2\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 2\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260116-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:தை 3\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 3\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260117-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:தை 4\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 4\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260118-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:தை 5\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 5\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260119-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:தை 6\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 6\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260120-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:தை 7\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 7\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260121-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:தை 8\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 8\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260122-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:தை 9\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 9\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260123-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:தை 10\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 10\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260124-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:தை 11\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 11\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260125-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:தை 12\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 12\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260126-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:தை 13\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 13\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260127-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:தை 14\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 14\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260128-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:தை 15\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 15\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260129-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:தை 16\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 16\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260130-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:தை 17\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 17\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260131-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:தை 18\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 18\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260201-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:தை 19\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 19\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260202-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:தை 20\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 20\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260203-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:தை 21\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 21\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260204-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:தை 22\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 22\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260205-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:தை 23\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 23\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260206-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:தை 24\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 24\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260207-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:தை 25\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 25\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260208-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:தை 26\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 26\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260209-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:தை 27\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 27\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260210-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:தை 28\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 28\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260211-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:தை 29\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 29\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260212-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:தை 30\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: தை\, தேதி: 30\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260213-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:மாசி 1\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 1\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260214-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:மாசி 2\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 2\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260215-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:மாசி 3\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 3\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260216-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:மாசி 4\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 4\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260217-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:மாசி 5\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 5\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260218-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:மாசி 6\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 6\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260219-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:மாசி 7\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 7\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260220-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:மாசி 8\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 8\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260221-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:மாசி 9\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 9\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260222-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:மாசி 10\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 10\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260223-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:மாசி 11\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 11\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260224-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:மாசி 12\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 12\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260225-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:மாசி 13\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 13\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260226-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:மாசி 14\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 14\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260227-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:மாசி 15\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 15\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260228-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:மாசி 16\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 16\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260301-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:மாசி 17\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 17\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260302-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:மாசி 18\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 18\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260303-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:மாசி 19\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 19\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260304-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:மாசி 20\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 20\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260305-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:மாசி 21\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 21\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260306-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:மாசி 22\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 22\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260307-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:மாசி 23\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 23\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260308-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:மாசி 24\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 24\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260309-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:மாசி 25\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 25\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260310-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:மாசி 26\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 26\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260311-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:மாசி 27\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 27\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260312-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:மாசி 28\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 28\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260313-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:மாசி 29\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: மாசி\, தேதி: 29\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260314-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:பங்குனி 1\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 1\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260315-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:பங்குனி 2\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 2\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260316-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:பங்குனி 3\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 3\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260317-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:பங்குனி 4\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 4\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260318-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:பங்குனி 5\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 5\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260319-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:பங்குனி 6\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 6\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260320-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:பங்குனி 7\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 7\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260321-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:பங்குனி 8\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 8\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260322-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:பங்குனி 9\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 9\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260323-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:பங்குனி 10\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 10\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260324-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:பங்குனி 11\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 11\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260325-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:பங்குனி 12\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 12\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260326-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:பங்குனி 13\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 13\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260327-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:பங்குனி 14\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 14\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260328-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:பங்குனி 15\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 15\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260329-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:பங்குனி 16\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 16\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260330-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:பங்குனி 17\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 17\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260331-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:பங்குனி 18\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 18\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260401-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:பங்குனி 19\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 19\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260402-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:பங்குனி 20\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 20\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260403-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:பங்குனி 21\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 21\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260404-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:பங்குனி 22\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 22\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260405-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:பங்குனி 23\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 23\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260406-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:பங்குனி 24\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 24\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260407-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:பங்குனி 25\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 25\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:பங்குனி 26\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 26\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260409-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:பங்குனி 27\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 27\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260410-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:பங்குனி 28\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 28\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260411-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:பங்குனி 29\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 29\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260412-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:பங்குனி 30\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 30\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260413-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:பங்குனி 31\, விஸ்வாவசு வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: பங்குனி\, தேதி: 31\, வருடம்: விஸ்வாவசு வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260414-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:சித்திரை 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:சித்திரை 2\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 2\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260416-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:சித்திரை 3\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 3\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260417-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:சித்திரை 4\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 4\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260418-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:சித்திரை 5\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 5\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260419-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:சித்திரை 6\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 6\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:சித்திரை 7\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 7\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260421-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:சித்திரை 8\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 8\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260422-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:சித்திரை 9\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 9\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260423-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:சித்திரை 10\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 10\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260424-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:சித்திரை 11\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 11\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260425-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:சித்திரை 12\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 12\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260426-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:சித்திரை 13\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 13\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260427-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:சித்திரை 14\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 14\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260428-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:சித்திரை 15\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 15\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260429-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:சித்திரை 16\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 16\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260430-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:சித்திரை 17\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 17\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260501-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:சித்திரை 18\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 18\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260502-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:சித்திரை 19\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 19\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260503-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:சித்திரை 20\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 20\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260504-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:சித்திரை 21\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 21\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260505-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:சித்திரை 22\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 22\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260506-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:சித்திரை 23\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 23\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260507-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:சித்திரை 24\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 24\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260508-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:சித்திரை 25\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 25\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260509-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:சித்திரை 26\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 26\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260510-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:சித்திரை 27\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 27\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260511-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:சித்திரை 28\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 28\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260512-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:சித்திரை 29\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 29\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260513-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:சித்திரை 30\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: சித்திரை\, தேதி: 30\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260514-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:வைகாசி 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260515-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:வைகாசி 2\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 2\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260516-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:வைகாசி 3\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 3\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260517-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:வைகாசி 4\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 4\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260518-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:வைகாசி 5\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 5\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260519-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:வைகாசி 6\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 6\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260520-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:வைகாசி 7\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 7\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260521-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:வைகாசி 8\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 8\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260522-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:வைகாசி 9\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 9\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260523-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:வைகாசி 10\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 10\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260524-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:வைகாசி 11\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 11\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260525-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:வைகாசி 12\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 12\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260526-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:வைகாசி 13\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 13\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260527-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:வைகாசி 14\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 14\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260528-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:வைகாசி 15\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 15\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260529-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:வைகாசி 16\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 16\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260530-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:வைகாசி 17\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 17\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260531-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:வைகாசி 18\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 18\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260601-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:வைகாசி 19\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 19\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260602-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:வைகாசி 20\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 20\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260603-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:வைகாசி 21\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 21\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260604-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:வைகாசி 22\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 22\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260605-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:வைகாசி 23\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 23\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260606-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:வைகாசி 24\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 24\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260607-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:வைகாசி 25\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 25\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260608-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:வைகாசி 26\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 26\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260609-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:வைகாசி 27\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 27\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260610-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:வைகாசி 28\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 28\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260611-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:வைகாசி 29\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 29\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260612-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:வைகாசி 30\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 30\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260613-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:வைகாசி 31\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 31\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260614-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:வைகாசி 32\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: வைகாசி\, தேதி: 32\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260615-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:ஆனி 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260616-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:ஆனி 2\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 2\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:ஆனி 3\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 3\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260618-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:ஆனி 4\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 4\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260619-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:ஆனி 5\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 5\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260620-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:ஆனி 6\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 6\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260621-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:ஆனி 7\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 7\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260622-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:ஆனி 8\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 8\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260623-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:ஆனி 9\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 9\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260624-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:ஆனி 10\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 10\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260625-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:ஆனி 11\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 11\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260626-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:ஆனி 12\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 12\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260627-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:ஆனி 13\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 13\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260628-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:ஆனி 14\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 14\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260629-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:ஆனி 15\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 15\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260630-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:ஆனி 16\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 16\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:ஆனி 17\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 17\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260702-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:ஆனி 18\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 18\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260703-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:ஆனி 19\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 19\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260704-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:ஆனி 20\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 20\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260705-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:ஆனி 21\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 21\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260706-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:ஆனி 22\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 22\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260707-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:ஆனி 23\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 23\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260708-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:ஆனி 24\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 24\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260709-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:ஆனி 25\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 25\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260710-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:ஆனி 26\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 26\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260711-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:ஆனி 27\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 27\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260712-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:ஆனி 28\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 28\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260713-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:ஆனி 29\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 29\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260714-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:ஆனி 30\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 30\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:ஆனி 31\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆனி\, தேதி: 31\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260716-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:ஆடி 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260717-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:ஆடி 2\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 2\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260718-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:ஆடி 3\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 3\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260719-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:ஆடி 4\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 4\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260720-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:ஆடி 5\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 5\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260721-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:ஆடி 6\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 6\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260722-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:ஆடி 7\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 7\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260723-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:ஆடி 8\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 8\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260724-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:ஆடி 9\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 9\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260725-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:ஆடி 10\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 10\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260726-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:ஆடி 11\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 11\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260727-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:ஆடி 12\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 12\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260728-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:ஆடி 13\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 13\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:ஆடி 14\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 14\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:ஆடி 15\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 15\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:ஆடி 16\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 16\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260801-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:ஆடி 17\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 17\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260802-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:ஆடி 18\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 18\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260803-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:ஆடி 19\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 19\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260804-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:ஆடி 20\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 20\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260805-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:ஆடி 21\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 21\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260806-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:ஆடி 22\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 22\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:ஆடி 23\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 23\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260808-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ஆடி 24\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 24\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260809-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:ஆடி 25\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 25\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260810-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:ஆடி 26\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 26\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260811-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:ஆடி 27\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 27\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260812-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:ஆடி 28\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 28\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260813-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:ஆடி 29\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 29\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260814-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:ஆடி 30\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 30\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260815-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:ஆடி 31\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆடி\, தேதி: 31\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260816-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:ஆவணி 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:ஆவணி 2\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 2\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:ஆவணி 3\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 3\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:ஆவணி 4\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 4\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:ஆவணி 5\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 5\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:ஆவணி 6\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 6\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260822-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:ஆவணி 7\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 7\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260823-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:ஆவணி 8\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 8\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:ஆவணி 9\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 9\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:ஆவணி 10\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 10\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:ஆவணி 11\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 11\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:ஆவணி 12\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 12\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260828-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:ஆவணி 13\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 13\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260829-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:ஆவணி 14\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 14\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260830-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:ஆவணி 15\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 15\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:ஆவணி 16\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 16\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:ஆவணி 17\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 17\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:ஆவணி 18\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 18\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:ஆவணி 19\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 19\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:ஆவணி 20\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 20\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:ஆவணி 21\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 21\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260906-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:ஆவணி 22\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 22\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:ஆவணி 23\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 23\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:ஆவணி 24\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 24\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:ஆவணி 25\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 25\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:ஆவணி 26\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 26\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:ஆவணி 27\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 27\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:ஆவணி 28\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 28\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260913-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:ஆவணி 29\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 29\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:ஆவணி 30\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 30\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:ஆவணி 31\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 31\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:ஆவணி 32\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஆவணி\, தேதி: 32\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:புரட்டாசி 1\, பராபவ வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: புரட்டாசி\, தேதி: 1\, வருடம்: பராபவ வருடம்
+END:VEVENT
+BEGIN:VEVENT
 UID:20260918-tamil-date@yourgithub
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
