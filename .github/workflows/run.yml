@@ -4,6 +4,9 @@ on:
     - cron: '5 0 * * *' # Refreshes every day to maintain a moving window
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Silences the deprecation warning
+
 jobs:
   build:
     runs-on: ubuntu-latest
