@@ -9,13 +9,12 @@ TAMIL_MONTHS = [
 TAMIL_YEARS = [
     "பிரபவ", "விபவ", "சுக்ல", "பிரமோதூத", "பிரஜோத்பத்தி", "ஆங்கீரச", "ஸ்ரீமுக", "பவ", "யுவ", "தாது",
     "ஈஸ்வர", "பஹுதான்ய", "பிரமாதி", "விக்ரம", "விஷு", "சித்ரபானு", "சுபானு", "தாரண", "பார்த்திப", "விய",
-    "சர்வஜித்", "சர்வதாரி", "விரோதி", "விக்ருதி", "கர", "நந்தன", "விஜய", "ஜய", "மன்மத", "துன்முகி",
+    "சர்வजीत்", "சர்வதாரி", "விரோதி", "விக்ருதி", "கர", "நந்தன", "விஜய", "ஜய", "மன்மத", "துன்முகி",
     "ஹேவிளம்பி", "விளம்பி", "விகாரி", "சார்வரி", "ப்லவ", "சுபகிருது", "சோபகிருது", "க்ரோதி", "விஸ்வாவசு", "பராபவ",
     "ப்லவங்க", "கீலக", "சௌம்ய", "சாதாரண", "விரோதகிருது", "பரிதாபி", "பிரமாதீச", "ஆனந்த", "ராட்சஸ", "நள",
     "பிங்கள", "காளயுக்தி", "சித்தார்த்தி", "ரௌத்திரி", "துன்மதி", "துந்துபி", "ருத்ரோத்காரி", "ரக்தாட்சி", "க்ரோதன", "அட்சய"
 ]
 
-# Approximate Gregorian start days for each Tamil month (Indexed 1 to 12)
 MONTH_TRANSITIONS = {
     1: 14, 2: 13, 3: 14, 4: 14, 5: 14, 6: 15, 7: 16, 8: 16, 9: 17, 10: 17, 11: 16, 12: 16
 }
@@ -42,28 +41,32 @@ def calculate_tamil_date(today):
         
     return TAMIL_MONTHS[tamil_month_idx % 12], tamil_day, tamil_year_name
 
-# 2. Main Logic: Generate a 365-day loop
-start_date = datetime.date.today()
+# 2. Dynamic Date Range Logic
+today = datetime.date.today()
+start_date = datetime.date(today.year, 1, 1)  # Anchors to Jan 1st of current year
+end_date = today + datetime.timedelta(days=365)  # Outlines exactly 1 year in advance
+
+# Calculate the total number of days between Jan 1st and 1 year in advance
+total_days = (end_date - start_date).days
+
 ics_lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
     "PRODID:-//My Tamil Calendar//EN",
-    "X-WR-CALNAME:தமிழ் நாட்காட்டி"  # Name of the calendar inside Google Calendar
+    "X-WR-CALNAME:தமிழ் நாட்காட்டி"
 ]
 
-for i in range(365):
+# Loop through the dynamic range
+for i in range(total_days):
     current_date = start_date + datetime.timedelta(days=i)
     t_month, t_day, t_year = calculate_tamil_date(current_date)
     
-    # Format strings for calendar entries
     date_str = current_date.strftime("%Y%m%d")
     next_date_str = (current_date + datetime.timedelta(days=1)).strftime("%Y%m%d")
     
-    # Title format: "புரட்டாசி 3, க்ரோதி வருடம்"
     summary = f"{t_month} {t_day}\\, {t_year} வருடம்"
     uid = f"{date_str}-tamil-date@yourgithub"
     
-    # Add standalone all-day event
     ics_lines.extend([
         "BEGIN:VEVENT",
         f"UID:{uid}",
@@ -76,8 +79,8 @@ for i in range(365):
 
 ics_lines.append("END:VCALENDAR")
 
-# Save file locally as .ics with UTF-8 encoding for Tamil letters
+# Save file locally with UTF-8 encoding
 with open("calendar.ics", "w", encoding="utf-8") as f:
     f.write("\n".join(ics_lines))
 
-print("Successfully compiled a 365-day outlook into calendar.ics in Tamil!")
+print(f"Compiled dynamic calendar file from {start_date} to {end_date} ({total_days} days total)!")
