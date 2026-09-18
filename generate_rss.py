@@ -1,12 +1,7 @@
 import datetime
-from email.utils import formatdate
 import xml.etree.ElementTree as ET
 
-# 1. Configuration & Constants
-FEED_TITLE = "Daily Tamil Calendar Feed"
-FEED_LINK = "https://github.io"
-FEED_DESC = "Automatically generated daily Tamil month, date, and year"
-
+# 1. Constants
 TAMIL_MONTHS = [
     "Margazhi", "Thai", "Maasi", "Panguni", "Chithirai", "Vaikasi", 
     "Aani", "Aadi", "Aavani", "Purattasi", "Aippasi", "Karthigai"
@@ -21,36 +16,20 @@ TAMIL_YEARS = [
     "Rudhirodhgari", "Raktakshi", "Krodhana", "Akshaya"
 ]
 
-# Approximate Gregorian start days for each Tamil month (Indexed 1 to 12)
 MONTH_TRANSITIONS = {
-    1: 14,  # Thai starts Jan 14
-    2: 13,  # Maasi starts Feb 13
-    3: 14,  # Panguni starts Mar 14
-    4: 14,  # Chithirai starts Apr 14 (New Year)
-    5: 14,  # Vaikasi starts May 14
-    6: 15,  # Aani starts Jun 15
-    7: 16,  # Aadi starts Jul 16
-    8: 16,  # Aavani starts Aug 16
-    9: 17,  # Purattasi starts Sep 17
-    10: 17, # Aippasi starts Oct 17
-    11: 16, # Karthigai starts Nov 16
-    12: 16  # Margazhi starts Dec 16
+    1: 14, 2: 13, 3: 14, 4: 14, 5: 14, 6: 15, 7: 16, 8: 16, 9: 17, 10: 17, 11: 16, 12: 16
 }
 
 def calculate_tamil_date(today):
     g_year, g_month, g_day = today.year, today.month, today.day
-    
-    # Calculate Tamil Year (New Year starts mid-April)
-    cycle_year = g_year - 1987  # 1987 was Prabhava (Index 0)
+    cycle_year = g_year - 1987
     if g_month < 4 or (g_month == 4 and g_day < 14):
         cycle_year -= 1
     tamil_year_name = TAMIL_YEARS[cycle_year % 60]
     
-    # Determine active Tamil Month and Date Day
     transition_day = MONTH_TRANSITIONS[g_month]
-    
     if g_day >= transition_day:
-        tamil_month_idx = g_month  # Maps nicely to list indices because of list rotation
+        tamil_month_idx = g_month
         tamil_day = (g_day - transition_day) + 1
     else:
         tamil_month_idx = g_month - 1 if g_month > 1 else 12
@@ -60,30 +39,40 @@ def calculate_tamil_date(today):
         
     return TAMIL_MONTHS[tamil_month_idx % 12], tamil_day, tamil_year_name
 
-# 2. Main Logic Execution
-today = datetime.datetime.now()
-t_month, t_day, t_year = calculate_tamil_date(today)
+# 2. Main Logic: Generate a 365-day loop
+start_date = datetime.date.today()
+ics_lines = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//My Tamil Calendar//EN",
+    "X-WR-CALNAME:Tamil Daily Calendar"
+]
 
-item_title = f"{t_month} {t_day}, {t_year} Varudam"
-item_desc = f"Today is day {t_day} of the solar month {t_month} in the Tamil year {t_year}."
-pub_date = formatdate(usegmt=True)
+for i in range(365):
+    current_date = start_date + datetime.timedelta(days=i)
+    t_month, t_day, t_year = calculate_tamil_date(current_date)
+    
+    # Format strings for calendar metadata
+    date_str = current_date.strftime("%Y%m%d")
+    next_date_str = (current_date + datetime.timedelta(days=1)).strftime("%Y%m%d")
+    summary = f"{t_month} {t_day}\\, {t_year}"
+    uid = f"{date_str}-tamil-date@yourgithub"
+    
+    # Append standalone all-day event parameters
+    ics_lines.extend([
+        "BEGIN:VEVENT",
+        f"UID:{uid}",
+        f"DTSTART;VALUE=DATE:{date_str}",
+        f"DTEND;VALUE=DATE:{next_date_str}",
+        f"SUMMARY:{summary}",
+        f"DESCRIPTION:Tamil Solar Date - Month: {t_month}\\, Day: {t_day}\\, Year: {t_year} Varudam",
+        "END:VEVENT"
+    ])
 
-# 3. Build RSS XML Structure
-rss = ET.Element("rss", version="2.0")
-channel = ET.SubElement(rss, "channel")
+ics_lines.append("END:VCALENDAR")
 
-ET.SubElement(channel, "title").text = FEED_TITLE
-ET.SubElement(channel, "link").text = FEED_LINK
-ET.SubElement(channel, "description").text = FEED_DESC
+# Save file locally as .ics instead of xml
+with open("calendar.ics", "w", encoding="utf-8") as f:
+    f.write("\n".join(ics_lines))
 
-item = ET.SubElement(channel, "item")
-ET.SubElement(item, "title").text = item_title
-ET.SubElement(item, "description").text = item_desc
-ET.SubElement(item, "pubDate").text = pub_date
-ET.SubElement(item, "guid", isPermaLink="false").text = today.strftime("%Y-%m-%d-tamil-date")
-
-# Save file locally
-tree = ET.ElementTree(rss)
-ET.indent(tree, space="  ", level=0)
-tree.write("rss.xml", encoding="utf-8", xml_declaration=True)
-print(f"Generated entry: {item_title}")
+print("Successfully compiled a 365-day outlook into calendar.ics!")
