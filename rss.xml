@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tamil Calendar Feed</title>
+    <link>https://github.io</link>
+    <description>Automatically generated daily Tamil month, date, and year</description>
+    <item>
+      <title>Purattasi 2, Paridhaabi Varudam</title>
+      <description>Today is day 2 of the solar month Purattasi in the Tamil year Paridhaabi.</description>
+      <pubDate>Fri, 18 Sep 2026 19:28:05 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-18-tamil-date</guid>
+    </item>
+  </channel>
+</rss>
