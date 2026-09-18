@@ -23,6 +23,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add rss.xml
-          git commit -m "Update daily RSS feed" || exit 0
-          git push
+          git add calendar.ics rss.xml || true
+          git commit -m "Update calendar assets" || exit 0
+          git pull --rebase origin main
+          git push origin main
