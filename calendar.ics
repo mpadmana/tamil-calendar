@@ -4552,4 +4552,11 @@ DTEND;VALUE=DATE:20271013
 SUMMARY:புரட்டாசி 26\, ப்லவங்க வருடம்
 DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: புரட்டாசி\, தேதி: 26\, வருடம்: ப்லவங்க வருடம்
 END:VEVENT
+BEGIN:VEVENT
+UID:20271013-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:புரட்டாசி 27\, ப்லவங்க வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: புரட்டாசி\, தேதி: 27\, வருடம்: ப்லவங்க வருடம்
+END:VEVENT
 END:VCALENDAR
