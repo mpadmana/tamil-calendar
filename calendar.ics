@@ -4769,4 +4769,11 @@ DTEND;VALUE=DATE:20271113
 SUMMARY:ஐப்பசி 27\, ப்லவங்க வருடம்
 DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஐப்பசி\, தேதி: 27\, வருடம்: ப்லவங்க வருடம்
 END:VEVENT
+BEGIN:VEVENT
+UID:20271113-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:ஐப்பசி 28\, ப்லவங்க வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: ஐப்பசி\, தேதி: 28\, வருடம்: ப்லவங்க வருடம்
+END:VEVENT
 END:VCALENDAR
