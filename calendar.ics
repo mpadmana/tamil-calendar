@@ -4804,4 +4804,11 @@ DTEND;VALUE=DATE:20271118
 SUMMARY:கார்த்திகை 2\, ப்லவங்க வருடம்
 DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: கார்த்திகை\, தேதி: 2\, வருடம்: ப்லவங்க வருடம்
 END:VEVENT
+BEGIN:VEVENT
+UID:20271118-tamil-date@yourgithub
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:கார்த்திகை 3\, ப்லவங்க வருடம்
+DESCRIPTION:தமிழ் சூரிய நாட்காட்டி - மாதம்: கார்த்திகை\, தேதி: 3\, வருடம்: ப்லவங்க வருடம்
+END:VEVENT
 END:VCALENDAR
